@@ -1,0 +1,6 @@
+arch
+matplotlib
+scipy
+statsmodels
+pandas_datareader
+datetime
